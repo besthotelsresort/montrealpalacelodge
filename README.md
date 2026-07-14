@@ -1,0 +1,2 @@
+# montrealpalacelodge
+Static site: montrealpalacelodge
